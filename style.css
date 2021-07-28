@@ -1,0 +1,26 @@
+.header{
+    background: #FFF9F4;
+}
+.default-btn{
+    width: 165px;
+    height: 55px;
+    background: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
+    color: white;
+    padding: 18px 32px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 10px;
+}
+.default-btn:hover {
+    color: white;
+}
+.default-btn svg{
+    width: 20px;
+    height: 18px;
+}
+.default-btn span{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+}
